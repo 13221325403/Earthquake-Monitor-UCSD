@@ -1,5 +1,5 @@
 # UCSDUnfoldingMaps
-###### work with UC San Diego Intermediate Software Development MOOC team
+*work with UC San Diego Intermediate Software Development MOOC team*
 
 交互式的在地图上展示数据，例如地震情况的数据
 
@@ -8,3 +8,5 @@
 ![alt text](https://github.com/Arthur-Lanc/UCSDUnfoldingMaps/blob/master/earthquake_allmarker.png)
 
 ![alt text](https://github.com/Arthur-Lanc/UCSDUnfoldingMaps/blob/master/earthquake_citymarker.png)
+
+ :octocat: 
