@@ -7,3 +7,5 @@
 我的主要任务是使用UnfoldingMap进行绘图，从earthquake.usgs.gov获取实时数据，绘制数据并支持键盘交互
 
 ![alt text](https://github.com/Arthur-Lanc/UCSDUnfoldingMaps/blob/master/earthquake_allmarker.png)
+
+![alt text](https://github.com/Arthur-Lanc/UCSDUnfoldingMaps/blob/master/earthquake_citymarker.png)
