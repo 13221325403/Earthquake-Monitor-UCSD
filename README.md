@@ -1,5 +1,5 @@
 # UCSDUnfoldingMaps
-*work with UC San Diego Intermediate Software Development MOOC team*
+*cooperate with UC San Diego Intermediate Software Development MOOC team*
 
 交互式的在地图上展示数据，例如地震情况的数据
 
